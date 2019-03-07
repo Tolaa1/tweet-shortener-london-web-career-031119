@@ -1,8 +1,8 @@
 # Write your code here.
 def dictionary
   dictionary = {
-    "hello" =>'hi'
-"to" =>2
+"hello" =>'hi'
+"to" =>"2"
 "two" 
 too"  '2' 
 "for,
